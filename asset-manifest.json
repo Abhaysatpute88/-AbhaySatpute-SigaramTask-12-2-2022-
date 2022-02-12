@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-AbhaySatpute-SigaramTask-12-2-2022-/static/css/main.f32bdbb4.css",
+    "main.js": "/-AbhaySatpute-SigaramTask-12-2-2022-/static/js/main.eb135e9b.js",
+    "index.html": "/-AbhaySatpute-SigaramTask-12-2-2022-/index.html",
+    "main.f32bdbb4.css.map": "/-AbhaySatpute-SigaramTask-12-2-2022-/static/css/main.f32bdbb4.css.map",
+    "main.eb135e9b.js.map": "/-AbhaySatpute-SigaramTask-12-2-2022-/static/js/main.eb135e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32bdbb4.css",
+    "static/js/main.eb135e9b.js"
+  ]
+}
